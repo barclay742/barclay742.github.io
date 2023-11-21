@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "index.md"
               }
             }
           }
@@ -193,7 +193,7 @@
   "active": "0383553486c2ffd8",
   "lastOpenFiles": [
     "What are these notes.md",
-    "Index.md",
+    "index.md",
     "Folder 1/Zettalkasten Note-taking.md",
     "Folder 1/Slow Burn vs Heavy Lifts, Why working on multiple projects can be beneficial.md",
     "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md",
