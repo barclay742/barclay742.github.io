@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettalkasten Note-taking.md",
+                "file": "What are these notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a9941521855a0cf",
+            "id": "795b7d207615b45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61a367ea0a43ba8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,14 +118,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md"
               }
             }
           }
@@ -166,10 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a9941521855a0cf",
+  "active": "795b7d207615b45f",
   "lastOpenFiles": [
-    "readme.md",
-    "index.md",
-    "Zettalkasten Note-taking.md"
+    "Folder 1/Evergreen Notes.md",
+    "Folder 1/How not having a second brain makes the writing process 73% more inefficient.md",
+    "Folder 1/Slow Burn vs Heavy Lifts, Why working on multiple projects can be beneficial.md",
+    "Folder 1/Zettalkasten Note-taking.md",
+    "Folder 1/Information Overload.md",
+    "What are these notes.md",
+    "Folder 1",
+    "readme.md"
   ]
 }
