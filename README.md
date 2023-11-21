@@ -1,1 +1,5 @@
-# barclay742.github.io
+# Barclay742.github.io
+
+
+This my Slip Box Zettelkasten Evergreen Notes 
+
